@@ -1,0 +1,15 @@
+{
+    "require": {
+		"php": ">=7.1",
+		"laravel/framework":"5.8.*"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
